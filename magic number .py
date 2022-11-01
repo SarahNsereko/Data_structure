@@ -1,4 +1,4 @@
-#Program to 
+
 print("Hi ! Welcome to my guess the number game!")
 print("Enter an integer please")
 number=(int(input()))
