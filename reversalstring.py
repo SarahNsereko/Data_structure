@@ -1,3 +1,4 @@
+#This code reverses a string and prints them as one word
 a="Happy Coding"
 g=[]
 for i in a:
